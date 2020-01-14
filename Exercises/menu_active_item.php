@@ -35,10 +35,10 @@ $active = ABOUT;
     <h1>Menu active item</h1>
     <nav id="navigation">
     <ul>
-	<li class=menu-item">Home</li>
-	<li class=menu-item">Products</li>
-	<li class=menu-item active">About us</li>
-	<li class=menu-item">Gift Ideas</li>
+	<li class="menu-iem">Home</li>
+	<li class="menu-iem">Products</li>
+	<li class="menu-iem active">About Us </li>
+	<li class="menu-iem">Gift Ideas</li>
     </ul>
 </nav>
 </header>
